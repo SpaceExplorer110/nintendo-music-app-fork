@@ -1,7 +1,7 @@
 
 {
   "name": "nintendo-music",
-  "version": "SE1.0.1",
+  "version": "1.0.1",
   "description": "Nintendo Music - Electron Desktop App",
   "main": "main.js",
   "scripts": {
