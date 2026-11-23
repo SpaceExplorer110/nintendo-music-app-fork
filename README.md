@@ -1,6 +1,7 @@
 This is a fork from Juniper258/nintendo-music-app: https://github.com/Juniper258/nintendo-music-app
 
-I removed the top bar, made it feel more like an application in stead of a website, and added proper spacebar support.
+I removed the top bar, made it feel more like an application in stead of a website, and added proper spacebar support. I also added Discord integration(you will have to set this up)
+
 Logging in can be hard, because you will get a lot of Windows hello popups. I don't know what to do about it. You can use ctrl+shift+I to open DevTools, and then it might stop.
 
 ## Setup
