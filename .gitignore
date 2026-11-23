@@ -1,0 +1,18 @@
+# Build output
+dist/
+*.exe
+*.sig
+
+# Cache
+.cache/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Config(contains Discord application ID)
+config.json
